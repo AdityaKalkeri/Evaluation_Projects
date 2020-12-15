@@ -26,4 +26,16 @@ Week 2: 4-Dec-2020
                    Using the given attributes, predict whether the crops of a farmer will be 'healthy', 'damaged by some reason',
                    'damage by pesticides'
 
+Week 3: 12-Dec-2020
+       
+       Project 13: Doctor's Consultation Fees (Regression)
+                   Predict the Consultation fees of a Doctor for a single visit
+                   
+       Project 14: Restaurant Cost predict
+                   Predict how much one time bill for two people will cost in different cities all across India
+       
+       Project 18: COVID- 19 Dataset
+       
+       Project 19: Election Dataset
+                   The details of Portuguese general election is given. Using the given features, predict how many seats will be won by political parties.
   
